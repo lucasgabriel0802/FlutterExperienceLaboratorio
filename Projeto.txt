@@ -1,5 +1,0 @@
-Academia do Flutter com Rodrigo Rahman
-
-Projeto mobile, web e aplicativo para windows.
-
-Sistema de recepção para laboratório.
